@@ -3,7 +3,7 @@
 * Студент: [Екатерина Штыбина](https://up.htmlacademy.ru/javascript/29/user/2223647).
 * Наставник: [Никита Сигов](https://htmlacademy.ru/profile/crazer).
 
----
+
 
 _Не удаляйте и не изменяйте самовольно файлы и папки:_
 _`.editorconfig`, `.eslintrc`, `.gitattributes`, `.gitignore`, `package-lock.json`, `package.json`., `.github`_
